@@ -1,20 +1,19 @@
-import PropTypes from "prop-types"
 import React from "react"
 
 const TimeTable = () => (
   <div>
     <h1>Aikataulu</h1>
 
-    <div>
+    <div style={{ maxWidth: `600px`, marginBottom: `1.45rem` }}>
       <h2>Super Smash Bros. Ultimate</h2>
       <table>
         <tr>
           <td>11:00</td>
-          <td>Wave A</td>
+          <td>Aalto A</td>
         </tr>
         <tr>
           <td>12:30</td>
-          <td>Wave B</td>
+          <td>Aalto B</td>
         </tr>
         <tr>
           <td>14:30</td>
@@ -26,7 +25,7 @@ const TimeTable = () => (
         </tr>
       </table>
     </div>
-    <div>
+    <div style={{ maxWidth: `600px`, marginBottom: `1.45rem` }}>
       <h2>Counter-Strike: Global Offensive</h2>
       <table>
         <tr>
