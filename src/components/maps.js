@@ -1,7 +1,8 @@
 import React from "react"
+import mapsStyles from "./maps.module.css"
 
 const Maps = () => (
-  <div>
+  <div className={mapsStyles.maps}>
     <div
       style={{
         background: "#2e2a2b",
@@ -30,11 +31,15 @@ const Maps = () => (
       <a href="https://goo.gl/maps/SWytMkqsbcGb29wM8" target="__blank">
         Terveyskeskus I
       </a>
+      <a href="https://goo.gl/maps/crCvjZ3Ngzzb1Ns49" target="__blank">
+        Pikkujärvi P
+      </a>
     </div>
     <h2>Kaupat</h2>
     <div
       style={{
         marginBottom: "1rem",
+        paddingLeft: "1rem",
       }}
     >
       <a href="https://goo.gl/maps/f5k85RKjWtdqtNFbA" target="__blank">
