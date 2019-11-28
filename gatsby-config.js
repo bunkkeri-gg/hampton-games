@@ -2,7 +2,7 @@ module.exports = {
   siteMetadata: {
     title: `Hämpton Games`,
     description: `Hämpton Games on pelitapahtuma joka järjestetään Hämeenlinnassa 11.1.2020`,
-    author: `Bunkkeri`,
+    author: `BunkkeriGG`,
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
