@@ -20,7 +20,9 @@ const Venue = () => (
           paddingLeft: "1rem",
         }}
       >
-        <img src={map} alt="Kartta" />
+        <a href={map}>
+          <img src={map} alt="Kartta" />
+        </a>
       </div>
     </div>
   </div>
