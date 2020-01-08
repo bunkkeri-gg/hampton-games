@@ -1,4 +1,5 @@
 import React from "react"
+import map from "../images/kartta.jpg"
 
 const Venue = () => (
   <div>
@@ -13,13 +14,14 @@ const Venue = () => (
       <h1 style={{ margin: 0 }}>Tapahtuma paikka</h1>
     </div>
     <div style={{ marginLeft: "2em", marginRight: "2em" }}>
-      <h2>Tapahtuma paikka</h2>
       <div
         style={{
           marginBottom: "1rem",
           paddingLeft: "1rem",
         }}
-      ></div>
+      >
+        <img src={map} alt="Kartta" />
+      </div>
     </div>
   </div>
 )
