@@ -10,6 +10,7 @@ const Header = () => (
       paddingTop: "1rem",
       display: "flex",
       justifyContent: "center",
+      borderBottom: "10px solid #F8C528",
     }}
   >
     <img src={Logo} style={{ height: "10em" }}></img>
