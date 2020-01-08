@@ -11,7 +11,7 @@ const Venue = () => (
         marginBottom: "1rem",
       }}
     >
-      <h1 style={{ margin: 0 }}>Tapahtuma paikka</h1>
+      <h1 style={{ margin: 0 }}>Tapahtumapaikka</h1>
     </div>
     <div style={{ marginLeft: "2em", marginRight: "2em" }}>
       <div
@@ -23,6 +23,16 @@ const Venue = () => (
         <a href={map}>
           <img src={map} alt="Kartta" />
         </a>
+        <h1>Ruokailu</h1>
+        <p>
+          Ravintola Iso Huvilasta on tarjolla Hämpton Games burger ateria
+          hintaan 10€
+        </p>
+        <h1>Vaatesäilytys</h1>
+        <p>
+          Tapahtuman järjestejä ei vastaa vaatesäilytykseen jätetyistä
+          tavaroista. Vaatesäilytyksessä on kamera valvonta.
+        </p>
       </div>
     </div>
   </div>
