@@ -6,6 +6,7 @@ import SEO from "../components/seo"
 import TimeTable from "../components/timetable"
 import Maps from "../components/maps"
 import Venue from "../components/venue"
+import Sponsor from "../components/sponsor"
 
 const IndexPage = () => (
   <Layout>
@@ -13,6 +14,7 @@ const IndexPage = () => (
     <Venue />
     <TimeTable />
     <Maps />
+    <Sponsor />
   </Layout>
 )
 
