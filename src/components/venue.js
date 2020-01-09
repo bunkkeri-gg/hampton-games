@@ -31,7 +31,7 @@ const Venue = () => (
         </p>
         <h1>Vaatesäilytys</h1>
         <p>
-          Tapahtuman järjestejä ei vastaa vaatesäilytykseen jätetyistä
+          Tapahtuman järjestäjä ei vastaa vaatesäilytykseen jätetyistä
           tavaroista. Vaatesäilytyksessä on kamera valvonta.
         </p>
       </div>
