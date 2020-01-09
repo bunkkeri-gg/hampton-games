@@ -23,6 +23,7 @@ const Venue = () => (
         <a href={map}>
           <img src={map} alt="Kartta" />
         </a>
+        <p>Painamalla kuvaa näet sen isompana.</p>
         <h1>Ruokailu</h1>
         <p>
           Ravintola Iso Huvilasta on tarjolla Hämpton Games burger ateria

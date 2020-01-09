@@ -6,8 +6,8 @@ const TimeTable = () => (
       <h1 style={{ margin: 0 }}>Aikataulu</h1>
     </div>
     <div style={{ marginLeft: "2em", marginRight: "2em" }}>
-      <div style={{ maxWidth: `600px`, padding: `1.45rem` }}>
-        <div style={{ maxWidth: `600px`, marginBottom: `1.45rem` }}>
+      <div style={{ maxWidth: `100%`, padding: `1.45rem` }}>
+        <div style={{ maxWidth: `100%`, marginBottom: `1.45rem` }}>
           <h2>Super Smash Bros. Ultimate</h2>
           <table>
             <tr>
@@ -28,24 +28,24 @@ const TimeTable = () => (
             </tr>
           </table>
         </div>
-        <div style={{ maxWidth: `600px`, marginBottom: `1.45rem` }}>
+        <div style={{ maxWidth: `100%`, marginBottom: `1.45rem` }}>
           <h2>Counter-Strike: Global Offensive</h2>
           <table>
             <tr>
               <td style={{ width: "30%" }}>11:00</td>
-              <td>Joukkue 1 - Joukkue 2 (Vanajasali)</td>
+              <td>Xperience Lahti - HAMK Gaming (Vanajasali)</td>
             </tr>
             <tr>
               <td style={{ width: "30%" }}>11:00</td>
-              <td>Joukkue 3 - Joukkue 4 (Yläkerta)</td>
+              <td>Matchmaker - Birkka gaming (Yläkerta)</td>
             </tr>
             <tr>
               <td style={{ width: "30%" }}>12:30</td>
-              <td>Joukkue 5 - Joukkue 6 (Vanajasali)</td>
+              <td>ValidiTaktiikka - ihaok (Vanajasali)</td>
             </tr>
             <tr>
               <td style={{ width: "30%" }}>12:30</td>
-              <td>Joukkue 7 - Joukkue 8 (Yläkerta)</td>
+              <td>Mouse Breeders - Aku Ankan taskukirja nro 347 (Yläkerta)</td>
             </tr>
             <tr>
               <td style={{ width: "30%" }}>13:30</td>
