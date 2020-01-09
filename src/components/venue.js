@@ -26,13 +26,13 @@ const Venue = () => (
         <p>Painamalla kuvaa näet sen isompana.</p>
         <h1>Ruokailu</h1>
         <p>
-          Ravintola Iso Huvilasta on tarjolla Hämpton Games burger ateria
+          Ravintola Iso Huvilassa on tarjolla Hämpton Games burger-ateria
           hintaan 10€
         </p>
         <h1>Vaatesäilytys</h1>
         <p>
           Tapahtuman järjestäjä ei vastaa vaatesäilytykseen jätetyistä
-          tavaroista. Vaatesäilytyksessä on kamera valvonta.
+          tavaroista. Vaatesäilytyksessä on kameravalvonta.
         </p>
       </div>
     </div>
